@@ -16,9 +16,9 @@ I consider a great quality proof of concept as something that includes:
 1. Usage. 
   - If a proof of concept is not usable and efficient in real-world attacks, it is not a great quality proof of concept.
   ```diff
-  - + Positive Example: A Proof of concept that
-  - - Negative Example: A proof of concept that
+   + Positive Example: A Proof of concept that uses a vulnerability can affect programs people use today 
+   - Negative Example: A proof of concept that uses a vulnerability that affects programs not used in modern times
   ```
 
-2. Setup.
+2. Setup. 
   - If a proof of concept is difficult to set up as in 
