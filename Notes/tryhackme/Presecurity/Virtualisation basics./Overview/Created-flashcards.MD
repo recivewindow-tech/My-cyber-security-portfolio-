@@ -11,7 +11,7 @@ ________________________________________________________________________________
 2
 | Q: | What outside of hardware cost made pre-virtualization expensive?
 
-| A: | Space for machines, electricity, cooling, and maintenance
+| A: | Physical servers required significant space, electricity, cooling, hardware purchases, and ongoing maintenance.
 
 Sources: 
 TryHackMe: virtualisation basics task 2 (https://tryhackme.com/room/virtualisationbasics)
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 3
 | Q: | What percent of resources did one application commonly use on a server before virtualization was used?
 
-| A: | 5-20 Percent usage for one application.
+| A: | Before virtualization became common, a single application often used only 5–20% of a server's available resources, leaving much of the hardware underutilized.
 
 Sources: 
 https://www.energystar.gov/products/data_center_equipment/5-simple-ways-avoid-energy-waste-your-data-center/virtualize-servers
